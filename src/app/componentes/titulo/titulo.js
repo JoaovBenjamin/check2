@@ -9,5 +9,4 @@ export const Titulo = styled.h1`
     font-family:Arial, Helvetica, sans-serif;
     font-weight: 600;
     font-size: 24px;
-
 `
